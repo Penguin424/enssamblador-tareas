@@ -11,7 +11,7 @@ main proc
     mov ds, ax
 
     sub al, 30h
-    mov cl, 5
+    mov cl, 10
 
     ciclo:
     mov ch, 0
